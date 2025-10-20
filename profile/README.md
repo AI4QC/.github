@@ -1,11 +1,17 @@
-# 👋 Hello world from AI4Chemistry Lab @ HKUST
+# 👋 Hello world from AI4PhysicalScience Lab @ HKUST
 
-Welcome to the official GitHub home of **AI4Chemistry Lab**, based at the Hong Kong University of Science and Technology (HKUST)!
+Welcome to the official GitHub home of **AI4PhysSci Lab**, based at the Hong Kong University of Science and Technology (HKUST)!
 
 We are an interdisciplinary **AI for Science lab** aimming to build *Simulators*, *Emulators*, *Predictors*, and *Evaluators* for multiscale modeling workflows. 
-Rooted in **quantum chemistry** and **computational chemistry**, we have broad interests spanning **machine learning**, **quantum computing**,  **molecular simulation**,  **property prediction** and **experiment design**. Our mission is to develop **useful, not just fancy** tools that revolutionize the paradigm of chemistry research & accelerate chemical discovery through the integration of data-driven models and physics-based principles.
+Rooted in **AI x quantum x theoretical chemistry**, we have broad interests spanning **machine learning**, **quantum computing**,  **molecular simulation**,  **property prediction**, **generative molecular and material design** and **experiment design**. Our mission is to develop **useful, not just fancy** tools that revolutionize the paradigm of chemistry research & accelerate chemical discovery through the integration of data-driven models and physics-based principles.
 
 ---
+## 💡 Our Target Problem Scale 
+<img width="924" height="357" alt="image" src="https://github.com/user-attachments/assets/4af2a30f-edbc-4f84-b9a0-006eda45b97d" />
+
+## 💡 Our Philosophy and Perspective
+<img width="2092" height="875" alt="summary" src="https://github.com/user-attachments/assets/a8a25bd2-5092-405e-b358-626ff9855731" />
+
 
 ## 🔬 What We Do
 
@@ -13,6 +19,7 @@ We build general, practical, and scalable tools to solve real-world scientific p
 
 - 🧠 **Deep Quantum Monte Carlo (Deep QMC)**: Wavefunction-based neural network solvers that deliver high-accuracy results for strongly correlated systems.
 - 🧪 **Orbital-based learning**: Predicting physically constrained electron densities in real space.
+- 🔍 **AI for material design**: Generative AI for material design problems.
 - 🔬 **AI for experiment deisgn**: Bayesian optimization or reinforcement learning tools for guided experimental design and scientific exploration.
 - 🌐 **LLMs for Science**: Understanding and guiding the use of foundation models in scientific discovery.
 
@@ -33,7 +40,8 @@ If you're interested in contributing:
 
 ## 📚 Resources
 
-- 🌍 [Lab Homepage](https://sherrylixuecheng.github.io)
+- 🌍 [Lab Homepage](https://ai4qc.github.io)
+- 👧🏻 [Sherry's Homepage](https://sherrylixuecheng.github.io)
 - 🏘️ [Department of Chemistry, HKUST](https://chem.hkust.edu.hk/)
 - 🧾 Recent Publication:  
   - [Google Scholar of Sherry](https://scholar.google.com/citations?user=hy_oauIAAAAJ&hl=en)  

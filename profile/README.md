@@ -1,5 +1,5 @@
-# 👋 Hello world from AI4PhysicalScience Lab @ HKUST
-
+# 👋 Hello world from AI for Physical Sciences Lab @ HKUST
+ 
 Welcome to the official GitHub home of **AI4PhysSci Lab**, based at the Hong Kong University of Science and Technology (HKUST)!
 
 We are an interdisciplinary **AI for Science lab** aimming to build *Simulators*, *Emulators*, *Predictors*, and *Evaluators* for multiscale modeling workflows. 

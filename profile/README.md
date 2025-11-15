@@ -10,7 +10,8 @@ Rooted in **AI x quantum x theoretical chemistry**, we have broad interests span
 <img width="924" height="357" alt="image" src="https://github.com/user-attachments/assets/4af2a30f-edbc-4f84-b9a0-006eda45b97d" />
 
 ## 💡 Our Philosophy and Perspective
-<img width="2092" height="875" alt="summary" src="https://github.com/user-attachments/assets/a8a25bd2-5092-405e-b358-626ff9855731" />
+<img width="2092" height="875" alt="o1" src="https://github.com/user-attachments/assets/2ba69ca3-add5-4191-877b-8ba6193ceb72" />
+
 
 
 ## 🔬 What We Do
